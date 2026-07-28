@@ -3,4 +3,4 @@ def create_fire() -> str:
 
 
 def create_water() -> str:
-    return "Water elemnts created"
+    return "Water elements created"
