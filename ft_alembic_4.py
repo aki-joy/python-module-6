@@ -1,7 +1,7 @@
 import alchemy
 
 print(
-    "=== Alembic 0 ===\n"
+    "=== Alembic 4 ===\n"
     "Accessing the alchemy module using'import alchemy'\n"
     f"Testing create_air: {alchemy.create_air()}\n"
     "Now show that not all functions can be reached\n"
